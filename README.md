@@ -1,9 +1,29 @@
-- 👋 你好，我是@EricStoneChina
-- 👀 对软件制作感兴趣
-- 🌱 正在学习前端制作
-- 📫 如何联系我？:EricStone2009@outlook.com
+# 👋 Hi there, I'm Eric!
 
-<!---
-EricStoneChina/EricStoneChina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here you'll find a showcase of my projects, skills, and passion for technology. I’m dedicated to building impactful software and collaborating with the open source community.
+
+## 🚀 About Me
+
+- 💡 Driven by curiosity and continuous learning
+- 🔥 Passionate about software development, innovation, and solving real-world problems
+- 🤝 Always open to collaborating on exciting projects
+
+## 🛠️ Skills & Technologies
+
+<!-- List your top languages, frameworks, or tools here (e.g., Python, JavaScript, React, AWS, etc.) -->
+
+## 🌟 Featured Projects
+
+<!-- Highlight 2-3 favorite or most impactful projects. Briefly describe each and link to the relevant repo. -->
+
+## 📈 GitHub Stats
+
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricStoneChina&show_icons=true&theme=default)
+
+## 📫 Connect with Me
+
+<!-- Add your preferred social media or contact links (LinkedIn, Twitter, personal website, email, etc.) -->
+
+---
+
+Let's connect and create something amazing together!
